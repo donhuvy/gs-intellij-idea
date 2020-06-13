@@ -23,7 +23,7 @@ You'll pick a Spring guide and import it into IntelliJ IDEA. Then you can read t
 
  - About 15 minutes
  - https://www.jetbrains.com/idea/download/[IntelliJ IDEA]
- - {jdk}[JDK 6] or later
+ - {jdk}[JDK 8] or later
 
 
 == Installing IntelliJ IDEA 
